@@ -1,0 +1,16 @@
+{
+  "name": "graded-karaoke-app",
+  "version": "1.0.0",
+  "description": "Graded Karaoke App",
+  "license": "ISC",
+  "author": "momoist",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^45.2.3"
+  }
+}
